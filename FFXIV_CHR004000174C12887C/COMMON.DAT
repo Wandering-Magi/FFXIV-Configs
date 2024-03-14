@@ -273,9 +273,9 @@ NamePlateDispTypeFeastPet	0
 NamePlateHpTypeFeastPet	2
 NamePlateNameTitleTypeFeast	1
 NamePlateDispSize	0
-NamePlateDispJobIcon	0
-NamePlateDispJobIconType	0
-NamePlateSetRoleColor	0
+NamePlateDispJobIcon	1
+NamePlateDispJobIconType	1
+NamePlateSetRoleColor	1
 NamePlateColorTank	4294942528
 NamePlateEdgeTank	4282392608
 NamePlateColorHealer	4284545152
@@ -468,7 +468,7 @@ PartyListSortTypeDps	0
 PartyListSortTypeOther	0
 RatioHpDisp	1
 BuffDispType	0
-ContentsFinderListSortType	1
+ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	1
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	0
