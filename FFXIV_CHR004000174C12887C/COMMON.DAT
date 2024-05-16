@@ -58,7 +58,7 @@ EgiMirageTypeGaruda	0
 EgiMirageTypeTitan	0
 EgiMirageTypeIfrit	0
 BahamutSize	2
-PetMirageTypeCarbuncleSupport	0
+PetMirageTypeCarbuncleSupport	5
 PhoenixSize	2
 GarudaSize	2
 TitanSize	2
@@ -495,7 +495,7 @@ GPoseMotionFilterAction	1
 LsListSortPriority	1
 FriendListSortPriority	1
 FriendListFilterType	0
-FriendListSortType	1
+FriendListSortType	4
 LetterListFilterType	0
 LetterListSortType	0
 ContentsReplayEnable	0
