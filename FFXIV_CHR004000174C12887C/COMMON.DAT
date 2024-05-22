@@ -383,7 +383,7 @@ LogColorRoleTank	4278223103
 LogColorRoleHealer	4286642272
 LogColorRoleDPS	4294934399
 LogColorOtherClass	4291611852
-ChatType	6
+ChatType	2
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
