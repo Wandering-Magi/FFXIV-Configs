@@ -17,9 +17,9 @@ LipMotionType	1
 FirstPersonDefaultYAngle	0.000000
 FirstPersonDefaultZoom	0.780000
 FirstPersonDefaultDistance	1.500000
-ThirdPersonDefaultYAngle	-0.432136
+ThirdPersonDefaultYAngle	-0.315314
 ThirdPersonDefaultZoom	0.780000
-ThirdPersonDefaultDistance	20.000000
+ThirdPersonDefaultDistance	5.782881
 LockonDefaultYAngle	-0.349066
 LockonDefaultZoom	0.610000
 LockonDefaultZoom	6.000000
@@ -63,6 +63,7 @@ PhoenixSize	2
 GarudaSize	2
 TitanSize	2
 IfritSize	2
+SolBahamutSize	2
 PetMirageTypeFairy	0
 TimeMode	2
 Time12	0
@@ -70,7 +71,7 @@ TimeEorzea	1
 TimeLocal	1
 TimeServer	1
 ActiveLS_H	6488064
-ActiveLS_L	145027
+ActiveLS_L	153539
 HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -468,7 +469,7 @@ PartyListSortTypeDps	0
 PartyListSortTypeOther	0
 RatioHpDisp	1
 BuffDispType	0
-ContentsFinderListSortType	0
+ContentsFinderListSortType	1
 ContentsFinderSupplyEnable	1
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	0
@@ -510,5 +511,9 @@ MouseWheelOperationShiftDown	0
 TelepoTicketUseType	4
 TelepoTicketGilSetting	750
 TelepoCategoryType	0
+HidePcAroundQuestProgressNpc	0
+HidePcAroundQuestProgressNpcIncludeParty	0
+HidePcAroundNpcAccessingQuest	0
+HidePcAroundNpcAccessingQuestIncludeParty	0
 PvPFrontlinesGCFree	1
  
