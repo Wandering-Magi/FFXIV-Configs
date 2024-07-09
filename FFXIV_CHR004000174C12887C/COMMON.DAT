@@ -19,7 +19,7 @@ FirstPersonDefaultZoom	0.780000
 FirstPersonDefaultDistance	1.500000
 ThirdPersonDefaultYAngle	-0.315314
 ThirdPersonDefaultZoom	0.780000
-ThirdPersonDefaultDistance	5.782881
+ThirdPersonDefaultDistance	8.323536
 LockonDefaultYAngle	-0.349066
 LockonDefaultZoom	0.610000
 LockonDefaultZoom	6.000000
@@ -71,7 +71,7 @@ TimeEorzea	1
 TimeLocal	1
 TimeServer	1
 ActiveLS_H	6488064
-ActiveLS_L	153539
+ActiveLS_L	158537
 HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -393,7 +393,7 @@ ColorParty	6743807
 ColorAlliance	16744448
 ColorLS1	4293025936
 ColorLS2	4294928384
-ColorLS3	13959039
+ColorLS3	4282050740
 ColorLS4	13959039
 ColorLS5	13959039
 ColorLS6	13959039
