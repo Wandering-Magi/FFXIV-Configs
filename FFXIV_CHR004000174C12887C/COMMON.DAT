@@ -17,9 +17,9 @@ LipMotionType	1
 FirstPersonDefaultYAngle	0.000000
 FirstPersonDefaultZoom	0.780000
 FirstPersonDefaultDistance	1.500000
-ThirdPersonDefaultYAngle	-0.315314
+ThirdPersonDefaultYAngle	-0.273862
 ThirdPersonDefaultZoom	0.780000
-ThirdPersonDefaultDistance	8.323536
+ThirdPersonDefaultDistance	8.165538
 LockonDefaultYAngle	-0.349066
 LockonDefaultZoom	0.610000
 LockonDefaultZoom	6.000000
@@ -384,7 +384,7 @@ LogColorRoleTank	4278223103
 LogColorRoleHealer	4286642272
 LogColorRoleDPS	4294934399
 LogColorOtherClass	4291611852
-ChatType	2
+ChatType	11
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
