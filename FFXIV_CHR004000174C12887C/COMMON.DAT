@@ -71,7 +71,7 @@ TimeEorzea	1
 TimeLocal	1
 TimeServer	1
 ActiveLS_H	6488064
-ActiveLS_L	158537
+ActiveLS_L	145027
 HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -384,7 +384,7 @@ LogColorRoleTank	4278223103
 LogColorRoleHealer	4286642272
 LogColorRoleDPS	4294934399
 LogColorOtherClass	4291611852
-ChatType	11
+ChatType	2
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
