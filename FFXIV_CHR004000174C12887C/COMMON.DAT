@@ -509,7 +509,7 @@ MouseWheelOperationAltDown	0
 MouseWheelOperationShiftUp	0
 MouseWheelOperationShiftDown	0
 TelepoTicketUseType	4
-TelepoTicketGilSetting	750
+TelepoTicketGilSetting	1200
 TelepoCategoryType	0
 HidePcAroundQuestProgressNpc	0
 HidePcAroundQuestProgressNpcIncludeParty	0
