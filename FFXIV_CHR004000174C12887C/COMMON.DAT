@@ -50,6 +50,9 @@ AutoNearestTargetType	1
 RightClickExclusionPC	0
 RightClickExclusionBNPC	0
 RightClickExclusionMinion	0
+EnableMoveTiltCharacter	1
+EnableMoveTiltMountGround	1
+EnableMoveTiltMountFly	1
 TurnSpeed	100
 FootEffect	0
 LegacySeal	1
