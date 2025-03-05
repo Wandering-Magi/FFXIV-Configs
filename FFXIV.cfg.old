@@ -177,7 +177,7 @@ FPSDownAFK	0
 IdlingCameraAFK	0
 FirstConfigBackup	0
 MouseSpeed	0.500000
-CameraZoom	7099
+CameraZoom	6998
 DynamicRezoType	0
 
 <Move Operation>
@@ -198,12 +198,12 @@ CutsceneMovieCaption	4294967295
 CutsceneMovieOpening	1
 
 <SoundPlay Settings>
-SoundMaster	30
+SoundMaster	25
 SoundBgm	10
 SoundSe	10
 SoundVoice	0
-SoundEnv	44
-SoundSystem	100
+SoundEnv	15
+SoundSystem	25
 SoundPerform	69
 SoundPlayer	100
 SoundParty	100
