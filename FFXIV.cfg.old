@@ -78,7 +78,7 @@ IsSoundSeAlways	0
 IsSoundVoiceAlways	0
 IsSoundSystemAlways	1
 IsSoundEnvAlways	0
-IsSoundPerformAlways	0
+IsSoundPerformAlways	1
 
 <Font Settings>
 
@@ -178,7 +178,7 @@ FPSDownAFK	0
 IdlingCameraAFK	0
 FirstConfigBackup	0
 MouseSpeed	0.500000
-CameraZoom	16250
+CameraZoom	20000
 DynamicAroundRangeMode	0
 DynamicRezoType	0
 
@@ -201,9 +201,9 @@ CutsceneMovieOpening	1
 
 <SoundPlay Settings>
 SoundMaster	20
-SoundBgm	20
+SoundBgm	0
 SoundSe	10
-SoundVoice	30
+SoundVoice	0
 SoundEnv	15
 SoundSystem	25
 SoundPerform	69
